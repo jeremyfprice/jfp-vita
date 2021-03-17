@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'jfp-vita.blg'
+[81] biber-darwin:322> INFO - === Sat Feb 20, 2021, 15:54:56
+[101] Biber.pm:415> INFO - Reading 'jfp-vita.bcf'
+[254] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[260] Utils.pm:304> WARN - The file 'jfp-vita.bcf' does not contain any citations!
+[268] bbl.pm:652> INFO - Writing 'jfp-vita.bbl' with encoding 'UTF-8'
+[268] bbl.pm:755> INFO - Output to jfp-vita.bbl
+[269] Biber.pm:128> INFO - WARNINGS: 1
